@@ -1,0 +1,18 @@
+/* Element Selektor für alle div */
+div{
+    background-color: aqua;
+}
+
+/*id Selektor selected nur ID */
+#header{
+    font-size: 3+*rem;
+}
+
+/* Klassenselector */
+.subtitle{
+    color: blue
+}
+
+#subtitle p{
+    color: green;
+}
